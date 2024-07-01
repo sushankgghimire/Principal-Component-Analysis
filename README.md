@@ -1,5 +1,4 @@
 # Principal-Component-Analysis
-Principal Component Analysis to differentiate between classes in different datasets.
 
 In the realm of modern data analysis, Principal Component Analysis (PCA) stands as a
 foundational and indispensable technique. Its widespread adoption and relevance in various domains testify
